@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Cedarville+Cursive&family=Grey+Qo&family=Playwrite+DK+Loopet:wght@100..400&display=swap');
+
+
+.playwright{
+    font-family: "Playwrite DK Loopet", cursive;
+}
+
+
+.text-centre
+{
+    text-align: center;
+}
+
+h1
+{
+    text-decoration: none;
+}
+
+.button
+{
+    color: rgb(171, 60, 97);
+}
+
+
+@media (max-width: 1200px) {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+
+
+@media (max-width: 600px) {
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
